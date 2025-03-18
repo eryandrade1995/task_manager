@@ -16,6 +16,7 @@ API RESTful de gerenciamento e controle de tarefas.
 * [Configuração](#Configuração)
 * [Como Usar](#Como-Usar)
 * [Teste](#Teste)
+* [Migração](#Migração)
 
 
 # Sobre o Projeto
@@ -55,4 +56,5 @@ Aplicação desenvolvida como base para construção de API RESTful simulando um
 # Testes
 Para rodar os testes da API, você pode utilizar o comando: dotnet test
 
-
+# Migração
+Para atualizar a database, navegue até o seu repositório e utilize o comando:  dotnet ef database update -s .\TaskManager.API\ -p .\TaskManager.Infrastructure\
