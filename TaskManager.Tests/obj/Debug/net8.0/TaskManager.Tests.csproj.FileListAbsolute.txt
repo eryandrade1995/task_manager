@@ -1,0 +1,8 @@
+C:\Users\erywelton.andrade\Documents\Repositorios\task_manager\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.csproj.AssemblyReference.cache
+C:\Users\erywelton.andrade\Documents\Repositorios\task_manager\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erywelton.andrade\Documents\Repositorios\task_manager\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.AssemblyInfoInputs.cache
+C:\Users\erywelton.andrade\Documents\Repositorios\task_manager\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.AssemblyInfo.cs
+C:\Users\erywelton.andrade\Documents\Repositorios\task_manager\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.csproj.CoreCompileInputs.cache
+C:\Users\erywelton.andrade\Documents\Repositorios\task_manager\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\erywelton.andrade\Documents\Repositorios\task_manager\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\erywelton.andrade\Documents\Repositorios\task_manager\TaskManager.Tests\obj\Debug\net8.0\TaskManager.Tests.sourcelink.json

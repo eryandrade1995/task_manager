@@ -50,3 +50,9 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+bin/
+.nuget/
+.vs/
+.idea/
+*.log
