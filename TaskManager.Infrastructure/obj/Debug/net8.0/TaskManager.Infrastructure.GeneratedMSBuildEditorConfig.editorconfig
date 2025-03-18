@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = TaskManager.Infrastructure
-build_property.ProjectDir = c:\Users\erywelton.andrade\Documents\Repositorios\task_manager\TaskManager.Infrastructure\
+build_property.ProjectDir = C:\Users\erywelton.andrade\Documents\Repositorios\task_manager\TaskManager.Infrastructure\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

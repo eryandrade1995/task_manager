@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uK+eQG5FtRs=",
+  "dgSpecHash": "2A2QMgFs7iA=",
   "success": true,
-  "projectFilePath": "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\TaskManager.Application.csproj",
+  "projectFilePath": "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\TaskManager.Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erywelton.andrade\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
     "C:\\Users\\erywelton.andrade\\.nuget\\packages\\microsoft.entityframeworkcore\\8.0.14\\microsoft.entityframeworkcore.8.0.14.nupkg.sha512",

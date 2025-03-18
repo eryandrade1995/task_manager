@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\TaskManager.Application.csproj": {}
+    "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\TaskManager.Application.csproj": {}
   },
   "projects": {
-    "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\TaskManager.Application.csproj": {
+    "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\TaskManager.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\TaskManager.Application.csproj",
+        "projectUniqueName": "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\TaskManager.Application.csproj",
         "projectName": "TaskManager.Application",
-        "projectPath": "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\TaskManager.Application.csproj",
+        "projectPath": "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\TaskManager.Application.csproj",
         "packagesPath": "C:\\Users\\erywelton.andrade\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\obj\\",
+        "outputPath": "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erywelton.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -29,8 +29,8 @@
               "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Core\\TaskManager.Core.csproj": {
                 "projectPath": "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Core\\TaskManager.Core.csproj"
               },
-              "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
-                "projectPath": "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj"
+              "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj"
               }
             }
           }
@@ -137,14 +137,14 @@
         }
       }
     },
-    "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
+    "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
         "projectName": "TaskManager.Infrastructure",
-        "projectPath": "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\erywelton.andrade\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\erywelton.andrade\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wf7t4oVKxF4=",
+  "dgSpecHash": "YfxlEkD28xw=",
   "success": true,
-  "projectFilePath": "c:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
+  "projectFilePath": "C:\\Users\\erywelton.andrade\\Documents\\Repositorios\\task_manager\\TaskManager.Infrastructure\\TaskManager.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\erywelton.andrade\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\erywelton.andrade\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.8\\microsoft.aspnetcore.openapi.8.0.8.nupkg.sha512",
