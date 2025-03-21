@@ -11,7 +11,7 @@ API RESTful de gerenciamento e controle de tarefas.
 * [Índice](#Índice)
 * [Sobre o Projeto](#Sobre-o-Projeto)
 * [Tecnologias Utilizadas](#Tecnologias-Utilizadas)
-* [Pré Requisitos](#Pré-Requisitos)
+* [Pré-Requisitos](#Pré-Requisitos)
 * [Instalação](#Instalação)
 * [Configuração](#Configuração)
 * [Como Usar](#Como-Usar)
